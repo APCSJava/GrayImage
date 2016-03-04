@@ -1,2 +1,3 @@
 # GrayImage
-Demonstrates JUnit unit testing of the 2012 FRQ class GrayImage
+Eclipse framework with unit testing support for the FRQ 2012-4 class GrayImage
+
